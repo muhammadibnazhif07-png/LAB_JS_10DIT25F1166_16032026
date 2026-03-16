@@ -98,11 +98,6 @@ function calculateMarks() {
     `;
 }
 
-
-
-console.clear();
-console.log("✅ script.js connected");
-
 const marksInput = document.getElementById("marks");
 const btnDoWhile = document.getElementById("btnDoWhile");
 const btnFor = document.getElementById("btnFor");
